@@ -1,7 +1,7 @@
 ### Hi there 👋, Ibrahim Mohamed
 #### Embedded software Engineer
 
-![I am GitHub Readme Generator's creator](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) 
+![I am GitHub Readme Generator's creator](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif) 
 
 I'm Ibrahim from Egypt ,I do Embedded system programming using c/c++.I enjoy learinng about programming language and technology .I also like to know about control techniques in general.
 
