@@ -4,7 +4,11 @@
 
 I'm Ibrahim from Egypt ,I do Embedded system programming using c/c++.I enjoy learinng about programming language and technology .I also like to know about control techniques in general.
 
-##Skills: C / C++ / JAVA / PYTHON
+## Skills: 
+  - C  
+  - C++  
+  - JAVA 
+  -  PYTHON
 
 - 🔭 I’m currently working on My own 
 
