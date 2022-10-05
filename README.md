@@ -17,6 +17,4 @@ Skills: C / C++ / JAVA / PYTHON
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimMohamed98&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IbrahimMohamed98)  
-
 ![Profile views](https://gpvc.arturio.dev/IbrahimMohamed98)  
