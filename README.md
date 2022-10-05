@@ -6,7 +6,7 @@ I'm Ibrahim from Egypt ,I do Embedded system programming using c/c++.I enjoy lea
 
 ## Skills: 
   - C 
-  - C++  
+  - C++  <i class="programming lang-cpp"></i>
   - JAVA 
   -  PYTHON
 
