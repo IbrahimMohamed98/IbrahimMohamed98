@@ -1,6 +1,6 @@
 ### Hi there 👋, Ibrahim Mohamed
 #### Embedded software Engineer
-[![Embedded software Engineer](https://img.freepik.com/free-vector/copy-space-blue-circuits-digital-background_23-2148821699.jpg?w=740&t=st=1664956235~exp=1664956835~hmac=3fed90485345b165daf7da40113181f4cdf63b828428623e6cc80a065e8e5832)](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif
 
 I'm Ibrahim from Egypt ,I do Embedded system programming using c/c++.I enjoy learinng about programming language and technology .I also like to know about control techniques in general.
 
