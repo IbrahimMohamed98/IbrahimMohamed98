@@ -5,8 +5,8 @@
 I'm Ibrahim from Egypt ,I do Embedded system programming using c/c++.I enjoy learinng about programming language and technology .I also like to know about control techniques in general.
 
 ## Skills: 
-  - C 
-  - C++  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+  - C <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  - C++  
   - JAVA 
   -  PYTHON
 
