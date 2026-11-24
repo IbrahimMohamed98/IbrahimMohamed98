@@ -1,23 +1,40 @@
-<html>
-  <head>
-  </head>
-  <body>
-    <!-- Your HTML goes here -->
-    <img src="https://i.imgur.com/g5GklGC.png" alt="Your Image">
-    <h1>Hi there 👋, Ibrahim Mohamed</h1>
-    <p>Embedded software Engineer</p>
-    <p>My name is Ibrahim and I hail from Egypt. I have a strong background in programming for embedded systems, with a focus on C/C++ programming languages. I have always been fascinated by technology and the way it continues to evolve, which is why I have a great interest in programming languages and the latest advancements in this field. In addition to this, I have a strong curiosity about control techniques and how they are used to regulate systems and processes. I enjoy exploring these subjects in my free time, and I am always eager to expand my knowledge and skills in this area.</p>
-  </body>
-</html>
+# Hi, I'm Ibrahim Bashar
 
-## Skills: 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FreeRTOS_logo_2005.svg/2560px-FreeRTOS_logo_2005.svg.png" alt="rtos" width="40" height="40"/> 
-## 🔭 I’m currently working on My own 
+**Embedded Systems & Firmware Engineer** | Cairo, Egypt (UTC+2 — EU & GCC Overlap) | Open to Remote (B2B / EOR)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMohamed98)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimMohamed98&show_icons=true) 
-  
-![Profile views](https://gpvc.arturio.dev/IbrahimMohamed98)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahimbashar98-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimbashar98/)
+[![Email](https://img.shields.io/badge/Email-ibrahimbashar621%40gmail.com-0D5C63?style=flat&logo=gmail&logoColor=white)](mailto:ibrahimbashar621@gmail.com)
 
+---
 
-## contacts
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IbrahimMohamed98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/IbrahimMohamed98/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='linkedin' height='40'>](mailto:himalaya.mohamed50@gmail.com)
+### About Me
+Embedded Systems Engineer with **3+ years of production experience** developing reliable **C/C++ firmware** across real-time MCUs (**Zephyr RTOS**, **FreeRTOS**), industrial IoT & cellular telematics platforms, automotive communication stacks (**AUTOSAR**), and **EV Battery Management Systems (BMS)**.
+
+- **Real-Time Firmware & RTOS:** Embedded C/C++ across ARM Cortex-M, ESP32, Infineon AURIX TC377, TI Sitara AM273x, and NXP S32K344WB; Zephyr RTOS (West, Devicetree, Kconfig, custom board bring-up, drivers, Shell & unit testing), FreeRTOS, Makefiles & linker scripts.
+- **IIoT, Edge & Telematics:** Industrial edge device connectivity (Modbus RTU, RS-485, Ethernet, MQTT, HTTPS, 4G/GSM, NB-IoT, Wi-Fi, BLE), Modbus simulation environments, real-time geofencing, and cellular/GPS modems (Quectel EC200U, SIMCom A7670E/A7672E/A9G, Telit ME910G1).
+- **Secure Communications & EV Power:** Hardware-independent AES & Hardware RNG services (AUTOSAR CryIf/Crypto APIs), EV BMS design (monitoring, balancing, SoC/SoH, fault protection), and working knowledge of Embedded Linux environments.
+
+---
+
+### Core Technical Stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | C / Embedded C, C++, Python, Rust |
+| **RTOS & OS** | Zephyr RTOS (West, Devicetree, Kconfig), FreeRTOS, AUTOSAR OS, Embedded Linux (working knowledge) |
+| **MCUs & Targets** | ARM Cortex-M (STM32), ESP32, Infineon AURIX TC377, TI Sitara AM273x, NXP S32K344WB, AVR |
+| **Protocols & Buses** | CAN, Ethernet, Modbus RTU, RS-485, MQTT, HTTPS, 4G / GSM / NB-IoT, Wi-Fi, BLE, SPI, I2C, UART, LIN, FlexRay |
+| **Build & Tooling** | Makefiles, CMake, Linker Scripts, Git, ESP-IDF, Keil, Eclipse, CANoe, DaVinci Configurator, MATLAB/Simulink |
+
+---
+
+### Highlighted Repositories
+
+| Repository | Focus |
+| :--- | :--- |
+| [`zephyr-course`](https://github.com/IbrahimMohamed98/zephyr-course) | Zephyr RTOS workspace with custom driver module, West manifest, app, and Twister unit tests |
+| [`CAN`](https://github.com/IbrahimMohamed98/CAN) | Bare-metal STM32 bxCAN peripheral driver written from scratch in Embedded C |
+| [`stm32F4`](https://github.com/IbrahimMohamed98/stm32F4) | Bare-metal ARM Cortex-M4 (STM32F4) MCAL peripheral drivers in Embedded C |
+| [`assignment1-aesd`](https://github.com/IbrahimMohamed98/assignment1-aesd) | Linux system programming & embedded software engineering with CMake, automated tests, and CI |
+| [`Embedded-Linux-Essentials-Handbook_Coursera`](https://github.com/IbrahimMohamed98/Embedded-Linux-Essentials-Handbook_Coursera) | Technical study handbook on U-Boot, Linux kernel, Devicetree, and embedded image build frameworks |
+| [`Atmega32`](https://github.com/IbrahimMohamed98/Atmega32) | Bare-metal AVR ATmega32 MCAL peripheral driver library in Embedded C |
